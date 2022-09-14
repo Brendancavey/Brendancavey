@@ -10,4 +10,7 @@
 - <b>Gaming Projects</b>
   - [Tower Defense Game](https://github.com/Brendancavey/Tower-Defense-Game)
 
+<h2> Certifications </h2>
 
+
+- [Comptia Project+](https://www.credly.com/badges/fa587fdd-ca90-4c0c-925a-0ae1fe086f0a)
