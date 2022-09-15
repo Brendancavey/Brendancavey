@@ -15,3 +15,4 @@
 
 
 - [Comptia Project+](https://www.credly.com/badges/fa587fdd-ca90-4c0c-925a-0ae1fe086f0a)
+- [ITIL4](https://www.credly.com/badges/0d537adf-baef-4d40-b6d4-b622e3cca908/public_url)
