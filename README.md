@@ -6,7 +6,7 @@
   - [Scheduling System Application](https://github.com/Brendancavey/SchedulingSystemApp)
   - [Product Inventory Application](https://github.com/Brendancavey/ProductInventoryApp)
 - <b>Python Projects</b>
-  - [Package Delivery System (Datastructures and Algorithms Demo]()
+  - [Package Delivery System (Datastructures and Algorithms Demo)](https://github.com/Brendancavey/PackageDeliverySimulation)
 <h2>🎮Gaming Projects</h2>
 
 - [Tower Defense Game](https://github.com/Brendancavey/Tower-Defense-Game)
