@@ -22,6 +22,7 @@
 <h2>🎮Gaming Projects</h2>
 
 - [Tower Defense Game](https://github.com/Brendancavey/Tower-Defense-Game)
+- [It's Raining Fire (High Score Reflexes Game)](https://github.com/Brendancavey/ItsRainingFire-UnityGame-)
 
 <h2>📜Certifications </h2>
 <ul>
