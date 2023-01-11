@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brendan! <br/>Programmer, Problem Solver, Innovator</h1>
+<h1>Hi, I'm Brendan! <br/>Computer Scientist, Programmer, Problem Solver</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
