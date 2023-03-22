@@ -21,8 +21,9 @@
 
 <h2>🎮Gaming Projects</h2>
 
-- [Tower Defense Game](https://github.com/Brendancavey/Tower-Defense-Game)
-- [It's Raining Hazards (High Score Reflexes Game)](https://github.com/Brendancavey/ItsRainingFire-UnityGame-)
+- [Rpg Dungeon Crawler](https://github.com/Brendancavey/RpgDungeonCrawler) (Python with Pygame)
+- [Tower Defense Game](https://github.com/Brendancavey/Tower-Defense-Game) (Construct 2)
+- [It's Raining Hazards (High Score Reflexes Game)](https://github.com/Brendancavey/ItsRainingFire-UnityGame-) (Unity)
 
 <h2>📜Certifications </h2>
 <ul>
