@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
   <li><b>Web Application</b></li>
-  
+
+   - [Math Scoring Game (C#, ASP.NET MVC Core, HTML, CSS, Javascript)](https://github.com/Brendancavey/MathGame)
   - [Animal Class Predictor (Python, Flask, Machine Learning, HTML, CSS)](https://github.com/Brendancavey/AnimalClassPredictor)
   
   <li><b>Java Projects</b></li>
@@ -13,7 +14,7 @@
   
   <li><b>Python Projects</b></li>
   
-  - [Package Delivery System (Datastructures and Algorithms Demo)](https://github.com/Brendancavey/PackageDeliverySimulation)
+  - [Package Delivery System (Data Structures and Algorithms Demo)](https://github.com/Brendancavey/PackageDeliverySimulation)
   
  </ul>
 
