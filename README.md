@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <ul>
-  <li><b>Web Application</b></li>
-
-   - [Math Scoring Game (C#, ASP.NET MVC Core, HTML, CSS, Javascript)](https://github.com/Brendancavey/MathGame)
+  <li><b>Web Applications</b></li>
+  
+  - [Fullstack E-Commerce Website (React.JS, ASP.NET Web API, SQL Server, C#, JavaScript, LINQ, Redux, Docker)](https://github.com/Brendancavey/eCommerceApp)
+  - [Math Scoring Game (C#, ASP.NET MVC Core, HTML, CSS, Javascript)](https://github.com/Brendancavey/MathGame)
   - [Animal Class Predictor (Python, Flask, Machine Learning, HTML, CSS)](https://github.com/Brendancavey/AnimalClassPredictor)
   
   <li><b>Java Projects</b></li>
